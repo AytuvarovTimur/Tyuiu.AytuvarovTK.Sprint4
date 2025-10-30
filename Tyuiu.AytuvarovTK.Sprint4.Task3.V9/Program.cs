@@ -13,7 +13,7 @@ namespace Tyuiu.AytuvarovTK.Sprint4.Task3.V9
             DataService ds = new DataService();
 
             int len;
-            Console.WriteLine("Введите длину массива (9):");
+            Console.WriteLine("Введите длину массива (5 на 5):");
             len = Convert.ToInt32(Console.ReadLine());
             int [,] numsArray = new int[len,len];
             for (int i = 0; i < len; i++)
