@@ -5,7 +5,7 @@ using System.Linq;
 using System.Runtime.ConstrainedExecution;
 using System.Text;
 
-namespace Tyuiu.LavrentevVA.Sprint4.Task0.V17
+namespace Tyuiu.AytuvarovTK.Sprint4.Task0.V17
 {
     internal class Program
     {
